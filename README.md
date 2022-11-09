@@ -7,7 +7,7 @@
 - Axios
 
 ## Links
-- Live Site URL: [Meals App](https://jolly-raindrop-2d89dc.netlify.app/)
+- Live Site URL: [Meals App](https://bright-eclair-563bc1.netlify.app/)
 
 ## Project Screenshot
 
